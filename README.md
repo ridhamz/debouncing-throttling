@@ -134,6 +134,6 @@ window.addEventListener('mousemove', throttle(handleMouseMove, 1000))
 Debouncing and Throttling are two amazing techniques, they can increase the performance of your web application to another level.
 Choosing one of them depends on the case.
 
-GitHub repo: https://github.com/ridhamz/debouncing-throttling
+
 
 
